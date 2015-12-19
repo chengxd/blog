@@ -11,19 +11,19 @@ url:              http://chengxd.github.io/blog/
 owner:
   name:           chengxd
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
+  bio:            “”
   email:          chengxd3@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
-  github:         
+  github:   chengxd      
   stackexchange:  
   linkedin:       
   instagram:      
   flickr:         
   tumblr:         
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    +yourid
+  google_plus:    +Steven Cheng
 
 # Background image to be tiled on all pages
 background: 
